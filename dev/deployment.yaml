@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: us.gcr.io/independent-tea-359310/cad-site:version1
+        image: us.gcr.io/independent-tea-359310/cad-site:version2.0
         ports:
         - containerPort: 80
